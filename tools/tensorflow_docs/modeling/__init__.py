@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # ==============================================================================
-import tensorflow.compat.v2 as tf
+import tensorflow.compat.v1 as tf
 
 
 class EpochDots(tf.keras.callbacks.Callback):
